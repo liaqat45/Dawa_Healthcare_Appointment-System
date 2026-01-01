@@ -1,0 +1,7 @@
+{
+  "name": "Dawa Healthcare Appointment System",
+  "description": "A professional and modern appointment management system for Dawa Healthcare, featuring public booking, admin dashboard, and WhatsApp notification simulations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
